@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="textview_score_padding">18dp</dimen>
+    <dimen name="imageview_padding">0dp</dimen>
+    <dimen name="button_padding">12dp</dimen>
+    <dimen name="text_size_score">56sp</dimen>
+    <dimen name="margin_button">12dp</dimen>
+    <dimen name="text_size_progress">18sp</dimen>
+    <dimen name="margin_progress">10dp</dimen>
+    <dimen name="margin_reset">8dp</dimen>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#303F9F</color>
+    <color name="backgroundApp">#272424</color>
+    <color name="colorGryff">#6d1818</color>
+    <color name="colorSlyth">#2f4f1d</color>
+    <color name="textBlack">#000000</color>
+    <color name="textWhite">#ffffff</color>
+    <color name="buttonSlyth">#868686</color>
+    <color name="buttonGryff">#CCAC00</color>
+    <color name="buttonReset">#868686</color>
+</resources>

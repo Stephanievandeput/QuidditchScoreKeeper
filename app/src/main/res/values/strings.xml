@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Quidditch Score Keeper</string>
+    <string name="quaffle_button">Quaffle</string>
+    <string name="snitch_button">Golden Snitch</string>
+    <string name="score_view">0</string>
+    <string name="progress_view">Start Quidditch!</string>
+    <string name="reset_button">reset</string>
+</resources>
